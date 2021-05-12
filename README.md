@@ -12,4 +12,4 @@ Modified dvorak layout for better programing.
 
 ### Layer 2
 
-![image](https://user-images.githubusercontent.com/1431991/117966361-ed617780-b377-11eb-9d09-e2ffac38a554.png)
+![image](https://user-images.githubusercontent.com/1431991/117967018-b50e6900-b378-11eb-8921-cfb342fbd1a6.png)
